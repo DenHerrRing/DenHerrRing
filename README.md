@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+### My name is Dennis and I am a senior software engineer.
 
 
 🔭 I’m currently working on epic shit. 😉<br>
