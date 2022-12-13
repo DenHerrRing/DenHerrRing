@@ -21,6 +21,8 @@
 
 ![](https://img.shields.io/badge/Angular-SPA-DD0031?style=for-the-badge&logo=angular)
 ![](https://img.shields.io/badge/Vue-SPA-4FC08D?style=for-the-badge&logo=vue.js)
+![](https://img.shields.io/badge/React-SPA-61DAFB?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/CapacitorJS-CrossPlatform-119EFF?style=for-the-badge&logo=capacitor)
 ![](https://img.shields.io/badge/Bulma-CSS-00D1B2?style=for-the-badge&logo=bulma)
 ![](https://img.shields.io/badge/Bootstrap-CSS-7952B3?style=for-the-badge&logo=bootstrap)
 ![](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
