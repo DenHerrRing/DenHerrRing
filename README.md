@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is Dennis and I am a senior software engineer.
+### My name is Dennis and I am a senior software engineer & Microsoft Certified Trainer.
 
 
 🔭 I’m currently working on epic shit. 😉<br>
@@ -36,6 +36,7 @@
 ![](https://img.shields.io/badge/Kafka-Broker-231f20?style=for-the-badge&logo=apachekafka)
 ![](https://img.shields.io/badge/Socket.IO-Broker-010101?style=for-the-badge&logo=socket.io)
 ![](https://img.shields.io/badge/docker-Virtualization-2496ED?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Portainer-Virtualization-13BEF9?style=for-the-badge&logo=portainer)
 ![](https://img.shields.io/badge/Ansible-Virtualization-EE0000?style=for-the-badge&logo=ansible)
 ![](https://img.shields.io/badge/Terraform-Virtualization-7B42BC?style=for-the-badge&logo=terraform)
 ![](https://img.shields.io/badge/Apache-Server-D22128?style=for-the-badge&logo=apache)
@@ -54,6 +55,10 @@
 ![](https://img.shields.io/badge/Ubuntu-OS-E95420?style=for-the-badge&logo=ubuntu)
 ![](https://img.shields.io/badge/Windows-OS-0078D4?style=for-the-badge&logo=windows)
 ![](https://img.shields.io/badge/MacOS-OS-000000?style=for-the-badge&logo=macos)
+![](https://img.shields.io/badge/GithHub-DevOps-181717?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/GitLab-DevOps-FC6D26?style=for-the-badge&logo=gitlab)
+![](https://img.shields.io/badge/AzureDevOps-DevOps/CI/CD-0078D7?style=for-the-badge&logo=azuredevops)
+![](https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins)
 
 
 
