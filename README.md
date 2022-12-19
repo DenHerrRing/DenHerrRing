@@ -75,3 +75,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DenHerrRing&icon=6&color=11)](https://visitcount.itsvg.in)
+
+
+<a href="https://www.buymeacoffee.com/denherrring" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
