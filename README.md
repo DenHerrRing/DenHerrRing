@@ -6,7 +6,7 @@
 🌱 I’m currently learning software architecture.<br>
 👯 I’m looking to collaborate on exciting projects.<br>
 💬 Ask me about any dev stuff.<br>
-📫 How to reach me: dennis@hering.me<br>
+📫 How to reach me: dennis@hering.dev<br>
 ⚡ Fun fact: Did you know that? A Full Stack Developer is often familiar with 4-6 major programming languages and frameworks.<br>
 
 
