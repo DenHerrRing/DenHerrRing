@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is Dennis and I am a Senior Software Engineer & Microsoft Certified Trainer.
+### My name is Dennis and I am a Software Architect & Microsoft Certified Trainer.
 
 
 🔭 I’m currently working on epic shit. 😉<br>
