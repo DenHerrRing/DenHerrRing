@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi Folks 👋 
 ### My name is Dennis and I am a Software Engineer/Architect & Microsoft Certified Trainer.
 
 
